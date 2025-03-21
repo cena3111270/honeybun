@@ -185,7 +185,7 @@ BetterClick(432, 223)
 sleep 2000
 BetterClick(468, 190)
 sleep 2000
-Send("Shibuya")
+Send("eclipse")
 sleep 2000
 BetterClick(214, 291)
 sleep 2000
@@ -1054,7 +1054,7 @@ BetterClick(432, 223)
 sleep 2000
 BetterClick(468, 190)
 sleep 2000
-Send("Shibuya")
+Send("eclipse")
 sleep 2000
 BetterClick(334, 188) ; close chat
 Sleep 1000
